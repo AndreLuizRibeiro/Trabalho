@@ -1,0 +1,166 @@
+
+[09/04, 16:58] +55 12 98273-3510: Ramon Santos Balbino 
+
+1. Falhas e Procedimentos de Energia no EMB 120 Brasília
+
+Falha de geradores (AC ou DC): O EMB 120 possui dois geradores principais, um em cada motor. A falha de um deles exige que o outro assuma a carga, podendo sobrecarregá-lo.
+
+
+Curto-circuito ou sobrecarga: Podem disparar disjuntores e isolar partes do sistema, comprometendo instrumentos ou sistemas de navegação.
+
+
+
+
+
+
+---
+
+2. Impactos de Tecnologias Modernas nos Sistemas Elétricos
+
+Automação e Diagnóstico 
+
+
+Materiais e Eficiência 
+
+Integração com avionicos digitais 
+
+Redundância e Segurança
+[09/04, 17:22] +55 12 98108-9679: 1. Sistema de Iluminação de Emergência:
+
+Conforme estabelecido pelo Regulamento Brasileiro de Aviação Civil (RBAC) nº 135, é obrigatório que aeronaves de transporte de passageiros possuam um sistema de iluminação de emergência independente do sistema principal. Este sistema deve:​
+Iluminação das Saídas de Emergência: Assegurar que cada sinal de identificação e localização das saídas de emergência seja devidamente iluminado.​
+Iluminação Geral da Cabine: Prover iluminação suficiente na cabine de passageiros, garantindo que a média de luminosidade, medida a intervalos de 40 polegadas na altura dos braços dos assentos e no centro do corredor, seja de no mínimo 0,05 pés-vela.​
+Iluminação do Caminho para as Saídas: Para aeronaves certificadas após 1º de janeiro de 1958, é necessário incluir iluminação próxima ao assoalho que indique o caminho para as saídas de emergência.​
+2. Operação das Luzes de Emergência:
+
+As luzes de emergência devem atender aos seguintes critérios:​
+Controle Manual: Ser operáveis manualmente tanto da cabine de pilotagem quanto de um ponto na cabine de passageiros acessível a partir de um assento de comissário de bordo.​
+Atuação Independente: Quando acionadas, devem permanecer acesas mesmo com a interrupção do sistema normal de energia elétrica da aeronave.​
+Duração Mínima: Prover o nível requerido de iluminação por pelo menos 10 minutos em condições ambientais críticas após um pouso de emergência.​
+Dispositivo de Controle: Possuir um dispositivo de controle com as posições "ON" (ligado), "OFF" (desligado) e "ARMED" (armado).​
+3. Sistema de Iluminação de Aproximação e Pouso:
+
+Embora não sejam especificados detalhes sobre o EMB 120, é relevante mencionar os sistemas gerais utilizados em aeroportos para auxiliar na aproximação e pouso de aeronaves:​
+Sistema de Luzes de Aproximação (ALS): Conjunto de luzes alinhadas com a pista, auxiliando na orientação durante a aproximação em condições visuais ou de baixa visibilidade.​
+Sistema de Luzes de Aproximação Pulsativas (ALSF): Versão do ALS com luzes de alta intensidade que piscam de forma progressiva, melhorando a visibilidade para os pilotos.​
+4. Sistemas Auxiliares:
+
+O EMB 120 integra diversos sistemas auxiliares que contribuem para a operação segura e eficiente da aeronave:​
+
+Sistemas de Iluminação Interna: Incluem iluminação da cabine de passageiros, da cabine de pilotagem e dos compartimentos de carga, garantindo visibilidade adequada durante todas as fases do voo.​
+Sistema de Iluminação Externa: Compreende luzes de navegação, luzes de pouso e taxiamento, além de luzes estroboscópicas, assegurando a visibilidade da aeronave para outras durante operações em solo e voo.​
+Sistema de Desembaciamento e Descongelamento: Garante a visibilidade das superfícies vitais da aeronave, como janelas e sensores, em condições meteorológicas adversas.​
+Sistema de Ar Condicionado e Pressurização: Mantém condições ambientais adequadas na cabine, contribuindo para o conforto e segurança dos ocupantes.​
+Sistema de Comunicação e Navegação: Inclui rádios, transponders e outros equipamentos que facilitam a comunicação com o controle de tráfego aéreo e a navegação durante o voo.
+[09/04, 17:22] +55 12 98108-9679: 1. Introdução
+
+O sistema de alimentação auxiliar elétrico da aeronave EMB-120 Brasilia é um componente fundamental para garantir a operação dos sistemas elétricos essenciais durante todas as fases do voo. Ele fornece energia para os sistemas de navegação, comunicação, iluminação, ar-condicionado, pressurização e outros dispositivos auxiliares que são vitais para a segurança e conforto da aeronave e de seus passageiros.
+
+Este relatório apresenta uma descrição detalhada do sistema de alimentação auxiliar elétrico da EMB-120, incluindo seus componentes principais, funcionamento, redundância, e recursos de proteção.
+
+2. Visão Geral do Sistema Elétrico da EMB-120
+
+A EMB-120 é equipada com um sistema elétrico composto por geradores, uma unidade de potência auxiliar (APU), baterias e barramentos de distribuição de energia. O sistema elétrico da aeronave é projetado para fornecer energia para os sistemas essenciais, além de garantir redundância e proteção em caso de falhas.
+
+2.1 Fontes de Energia
+Geradores: Cada motor da EMB-120 é equipado com um gerador de corrente alternada (CA) que alimenta a maioria dos sistemas da aeronave.
+Unidade de Potência Auxiliar (APU): Quando os motores não estão operando ou durante a partida, a APU fornece energia elétrica e ar comprimido para o sistema.
+Baterias: A aeronave é equipada com baterias que servem como fonte de energia emergencial e auxiliam na partida da APU.
+3. Componentes do Sistema de Alimentação Auxiliar Elétrico
+
+3.1 Geradores dos Motores
+Função: Os geradores de cada motor são responsáveis por fornecer energia elétrica para os sistemas da aeronave durante o voo e enquanto os motores estão em operação.
+Especificações: Cada motor possui um gerador de corrente alternada (CA) com capacidade para fornecer a potência necessária para os sistemas principais da aeronave.
+Redundância: Em caso de falha de um gerador, o outro pode continuar alimentando a aeronave.
+3.2 Unidade de Potência Auxiliar (APU)
+Função: A APU fornece energia elétrica à aeronave quando os motores principais estão desligados ou quando a aeronave está no solo. Ela também fornece ar comprimido para a partida dos motores e para os sistemas de pressurização e ar-condicionado.
+Localização e Operação: A APU é localizada na parte traseira da fuselagem e pode ser acionada a partir da cabine de comando.
+3.3 Baterias
+Função: As baterias armazenam energia para uso em emergências ou quando os motores e a APU não estão operando. Elas são responsáveis por fornecer energia elétrica a sistemas essenciais quando não há fornecimento do gerador ou APU.
+Capacidade: A aeronave utiliza baterias de íons de lítio ou baterias de chumbo-ácido, dependendo da configuração.
+3.4 Distribuição de Energia
+Barramentos de Distribuição: O sistema elétrico é dividido em barramentos para distribuir a energia para os diferentes sistemas da aeronave. Os barramentos principais incluem:
+Barramento 1: Alimentado pelos geradores dos motores.
+Barramento 2: Alimentado pela APU ou pelas baterias.
+Dispositivos de Proteção: O sistema de distribuição inclui disjuntores, fusíveis e outros dispositivos de proteção para garantir a segurança e a continuidade da operação.
+4. Funcionamento do Sistema de Alimentação Auxiliar Elétrico
+
+4.1 Operação Normal
+Durante o voo, os geradores dos motores alimentam os sistemas principais da aeronave, enquanto a APU fornece energia quando os motores estão desligados. A energia elétrica também é distribuída para os sistemas auxiliares, como iluminação, comunicação, sistemas de navegação e ar-condicionado.
+
+4.2 Partida de Motores
+Quando a aeronave está em solo, a APU pode ser utilizada para fornecer energia elétrica e ar comprimido para a partida dos motores. O sistema de baterias também auxilia na inicialização de sistemas essenciais.
+
+4.3 Emergências
+Em caso de falha em um gerador ou no sistema de distribuição de energia, a aeronave pode alternar para a energia fornecida pela APU ou pelas baterias, garantindo que os sistemas essenciais ainda tenham energia para continuar funcionando.
+
+5. Redundância e Proteção
+
+O sistema elétrico da EMB-120 é projetado com redundância para aumentar a confiabilidade da aeronave:
+
+Redundância de Geradores: Cada motor tem um gerador independente, garantindo que, em caso de falha de um gerador, o outro continue alimentando os sistemas essenciais.
+Proteção Elétrica: Dispositivos de proteção, como disjuntores e fusíveis, são usados para proteger os circuitos elétricos contra sobrecarga e curto-circuito. O sistema de monitoramento alertará a tripulação sobre falhas elétricas.
+Monitoramento: O sistema elétrico é monitorado através de indicadores na cabine, permitindo que a tripulação identifique falhas e tome as medidas necessárias de forma rápida.
+6. Sistemas Auxiliares Alimentados
+
+O sistema de alimentação auxiliar elétrico alimenta uma série de sistemas essenciais e auxiliares:
+
+Sistema de Iluminação: Iluminação interna (cabine de passageiros, cabine de comando) e externa (luzes de navegação, luzes de emergência).
+Sistemas de Comunicação e Navegação: Rádio, transponder, sistemas de radar e GPS.
+Sistema de Ar-Condicionado e Pressurização: Garantem conforto e segurança para passageiros e tripulação.
+Sistemas de Controle de Voo: Instrumentos de voo, computadores de navegação e sistemas de monitoramento.
+7. Conclusão
+
+O sistema de alimentação auxiliar elétrico do EMB-120 Brasilia é projetado para garantir a operação contínua e segura de todos os sistemas essenciais da aeronave, mesmo quando os motores principais não estão em operação. A utilização de geradores, APU e baterias oferece redundância e proteção, enquanto o sistema de distribuição e monitoramento assegura que a tripulação tenha o controle total sobre a alimentação elétrica da aeronave.
+
+8. Referências
+
+Manual de Operação do EMB-120 (ou documento similar da Embraer).
+Especificações Técnicas do Sistema Elétrico da EMB-120.
+Diagramas de Distribuição Elétrica (se disponíveis).
+
+
+
+
+1. Conversão de Energia (slide 1)
+
+No EMB-120, a conversão de energia é essencial pro funcionamento dos principais sistemas da aeronave.
+
+Os geradores AC, acoplados aos motores, fornecem energia elétrica durante o voo.
+
+Essa energia é convertida para DC por retificadores, atendendo equipamentos eletrônicos mais sensíveis.
+
+A aeronave conta com inversores, que fazem a conversão de DC para AC, dependendo da necessidade dos sistemas.
+
+Durante a partida dos motores ou em emergência, as baterias entram em ação como fonte auxiliar.
+
+Também temos a energia pneumática: o ar sangrado dos motores é convertido em trabalho útil, como pressurização e anti-gelo.
+
+
+
+2. Sistemas de Proteção Elétrica (slide 2)
+
+O sistema elétrico do EMB-120 possui proteções que garantem segurança e confiabilidade na operação.
+
+Disjuntores térmicos protegem os circuitos contra sobrecarga. Estão posicionados no painel elétrico e permitem rápido isolamento de falhas.
+
+Relés e contactores fazem o controle automático da distribuição elétrica, isolando falhas e redirecionando energia quando necessário.
+
+Monitoramento de tensão e frequência nos barramentos garante que os equipamentos operem dentro de parâmetros seguros.
+
+Há também sistemas de proteção contra curto-circuito, com atuação rápida para evitar danos maiores em caso de falha elétrica.
+
+
+
+
+3. Interface com Outros Sistemas (slide 3)
+
+No EMB-120, os sistemas se comunicam constantemente entre si:
+
+A energia elétrica alimenta os aviônicos, instrumentos de voo, luzes, bombas hidráulicas e mais.
+
+O sistema pneumático, derivado do ar dos motores, é integrado à pressurização, climatização e proteção contra gelo.
+
+Sistemas como freios, spoilers e comandos secundários dependem da energia elétrica para acionar válvulas ou sensores.
+
+Toda essa integração é monitorada por painéis e instrumentos na cabine, facilitando a atuação da tripulação.
