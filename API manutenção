@@ -1,0 +1,84 @@
+
+[01/06, 09:19] Andre: 2. Impactos de tecnologias modernas nos sistemas elétricos 
+
+Automação e Diagnóstico
+.
+Aeronaves mais novas usam sistemas de diagnóstico automático (BITE - Built-In Test Equipment) para detectar falhas em tempo
+real.
+• Isso reduz o tempo de manutenção, pois a falha já é identificada.
+• No EMB 120, os sistemas são mais manuais, mas atualizações podem incluir módulos de diagnóstico ou uso de GSES (Ground Support Equipment) com software para leitura de parâmetros.
+[01/06, 09:19] Andre: 1. Falhas e Procedimentos de Energia no EMB 120 Brasília
+O sistema elétrico do EMB 120 é
+essencialmente composto por:
+• Dois geradores CA (AC) acionados pelos motores.
+
+• Bateria de emergência para alimentar circuitos críticos.
+
+• Cada motor do EMB 120 possui um gerador (115V/400Hz AC).
+• Se um gerador falha, o outro pode suprir toda a aeronave, mas com risco de sobrecarga.
+
+A proteção contra sobrecarga pode abrir disjuntores automaticamente, desligando sistemas não essenciais.
+[01/06, 09:26] Andre: Sistemas de Alimentação Elétrico
+
+O sistema de alimentação elétrico da aeronave EMB-120 Brasilia é um componente fundamental para garantir a operação dos sistemas elétricos essenciais durante todas as fases do voo. Ele fornece energia para os sistemas de navegação, comunicação, iluminação, ar-condicionado, pressurização e outros dispositivos auxiliares que são vitais para a segurança e conforto da aeronave e de seus passageiros.
+O sistema de alimentação elétrico alimenta uma série de sistemas essenciais e auxiliares:
+Sistema de Iluminação: Iluminação interna (cabine de passageiros, cabine de comando) e externa (luzes de navegação, luzes de emergência).
+Sistemas de Comunicação e Navegação: Rádio, transponder, sistemas de radar e GPS.
+Sistema de Ar-Condicionado e Pressurização: Garantem conforto e segurança para passageiros e tripulação.
+Sistemas de Controle de Voo: Instrumentos de voo, computadores de navegação e sistemas de monitoramento.
+Durante o voo, os geradores dos motores alimentam os sistemas principais da aeronave, enquanto a APU fornece energia quando os motores estão desligados. A energia elétrica também é distribuída para os sistemas auxiliares, como iluminação, comunicação, sistemas de navegação e ar-condicionado.
+Quando a aeronave está em solo, a APU pode ser utilizada para fornecer energia elétrica e ar comprimido para a partida dos motores. O sistema de baterias também auxilia na inicialização de sistemas essenciais.
+Em caso de falha em um gerador ou no sistema de distribuição de energia, a aeronave pode alternar para a energia fornecida pela APU ou pelas baterias, garantindo que os sistemas essenciais ainda tenham energia para continuar funcionando.
+Iluminação e Sistemas de Alimentação
+Em caso de falha em um gerador ou no sistema de distribuição de energia, a aeronave pode alternar para a energia fornecida pela APU ou pelas baterias, garantindo que os sistemas essenciais ainda tenham energia para continuar funcionando.
+O sistema elétrico também é responsável pela alimentação da iluminação interna e externa da aeronave. Isso inclui luzes de cabine, luzes de leitura, luzes de emergência e luzes externas, como as de navegação e anticolisão. Esses sistemas são alimentados pela energia elétrica gerada pelos geradores e pela bateria, garantindo visibilidade adequada e segurança para os passageiros e tripulação durante o voo.
+Conforme estabelecido pelo Regulamento Brasileiro de Aviação Civil (RBAC) nº 135, é obrigatório que aeronaves de transporte de passageiros possuam um sistema de iluminação de emergência independente do sistema principal.
+O Sistema de Iluminação Interna, inclui iluminação da cabine de passageiros, da cabine de pilotagem e dos compartimentos de carga, garantindo visibilidade adequada durante todas as fases do voo.
+O Sistema de Iluminação Externa, compreende luzes de navegação, luzes de pouso e taxiamento, além de luzes estroboscópicas, assegurando a visibilidade da aeronave para outras durante operações em solo e voo.
+O Sistema de Desembaciamento e Descongelamento, garante a visibilidade das superfícies vitais da aeronave, como janelas e sensores, em condições meteorológicas adversas.
+Sistema de Ar Condicionado e Pressurização, mantém condições ambientais adequadas na cabine, contribuindo para o conforto e segurança dos ocupantes.
+Sistema de Comunicação e Navegação, inclui rádios, transponders e outros equipamentos que facilitam a comunicação com o controle de tráfego aéreo e a navegação durante o voo.
+[01/06, 09:37] Andre: Desde seu primeiro voo em 27 de julho de 1983, a aeronave Embraer EMB-120, construída pela fabricante brasileira, tornou-se um marco na aviação regional. Com mais de 350 unidades produzidas entre 1983 e 2001, o EMB-120 é considerado um sucesso de mercado. Em 1974, o conhecimento adquirido com o Bandeirante levou a Embraer a iniciar o desenvolvimento de um novo avião para uso em linhas aéreas regionais, o turboélice pressurizado EMB 120. Inicialmente chamado de Araguaia, seu nome foi alterado para “Brasilia” em 1979 - quando o projeto foi oficialmente lançado.
+O EMB 120 Brasilia, com capacidade para 30 passageiros, tinha a mesma empenagem em "T" do Xingu e asa de perfil supercrítico. Foi o primeiro avião a usar as recém-criadas turbinas PW115 de 1.500 HP, fabricadas pela Pratt & Whitney, que, em conjunto com as hélices desenvolvidas pela Hamilton Standard, permitiriam ao bimotor chegar a velocidades superiores a 500 km/h. O avião também apresentava comodidades como ar-condicionado durante o voo e baixo nível de ruído e vibração.
+Seu grande destaque era o uso das turbinas PW115 de 1.500 HP, fabricadas pela Pratt & Whitney, em conjunto com as hélices desenvolvidas pela Hamilton Standard. Isso permitia ao bimotor atingir velocidades superiores a 500 km/h. Além disso, o avião também oferecia conforto aos passageiros, com recursos como ar-condicionado durante o voo e baixo nível de ruído e vibração.
+
+Holofotes do Mundo Todo
+A apresentação oficial e o batizado do primeiro protótipo foram realizados em 29 de julho de 1983, quando a aeronave, com revestimento de alumínio polido fabricado especialmente pela empresa Alcoa, fez o primeiro voo. O lançamento foi acompanhado com grande interesse pela imprensa especializada internacional, representantes de diversas empresas aéreas e de fabricantes de componentes aeronáuticos de todo o mundo. Em dezembro daquele ano, a Embraer recebeu da Associação Brasileira de Marketing (ABM) o prêmio “Destaque de Marketing”, na Área de Desenvolvimento Tecnológico, pela repercussão nacional e internacional que conseguiu com o lançamento do Brasilia.
+
+Relato Internacional 
+Após a apresentação oficial, o Brasília entrou em processo de produção em 1984 e, em maio de 1985, obteve sua homologação pelo Centro Técnico de Aeronáutica (CTA).
+Diferente do Bandeirante, que foi utilizado primeiramente no Brasil para depois ser exportado, o Brasilia já começou sua carreira no mercado internacional. Antes mesmo de sua primeira entrega, já era considerado o avião da categoria mais vendido do mundo.
+Com seu cliente lançador, a Atlantic Southeast Airlines, em outubro de 1985, o EMB-120 foi considerado a melhor opção no mercado americano em termos de desempenho. Companhias aéreas dos EUA como a Great Lakes Airlines, Ameriflight e SkyWest Airlines, adquiriram diversas unidades do EMB-120 para integrar suas frotas. A SkyWest chegou a operar 62 aeronaves simultaneamente.
+O sucesso do EMB-120 também alcançou outros continentes, com companhias aéreas como a Swiftair, na Espanha, Régional, na França, e Atlant-Soyuz Airlines, na Rússia, adquirindo o modelo. Ainda em 1985, o Brasília se tornou o primeiro avião brasileiro a ser certificado na Alemanha.
+Em janeiro de 1988, a companhia aérea brasileira Rio-Sul colocou o avião em serviço no Brasil. Com sua popularidade crescente, o Brasília ganhou destaque como o avião regional mais utilizado no mundo em 1994. Na época, 26 empresas aéreas de 14 países compunham a frota do avião, que já havia registrado mais de três milhões de horas de voo.
+Desde seu lançamento, o Brasilia provou ser uma aeronave de sucesso e se tornou um marco na história da Embraer. Ao final de sua produção, em 2001, 357 aeronaves do EMB-120 foram construídas e entregues para 32 operadores em todo o mundo.
+Além da versão básica de produção, outras variantes foram desenvolvidas para atender as necessidades específicas das companhias aéreas, como o EMB-120ER, de peso maior de decolagem, e o EMB-120QC, dedicado ao transporte de cargas ou passageiros com mudança rápida entre os modos. A aeronave também foi utilizada para fins militares, com a construção da VC-97 para a Força Aérea Brasileira.
+
+Especificações
+Tripulação: Dois pilotos e um comissário de bordo
+Capacidade: 30 passageiros
+Velocidade de Cruzeiro: 584 km/h
+Alcance: 1.481 quilômetros
+Distância de Pouso: 1.380 metros
+Distância de Decolagem: 1.560 metros
+Comprimento: 20 metros
+Envergadura: 19,78 metros
+Altura: 6,35 metros
+Peso vazio: 7.070 quilos
+Peso máximo de decolagem: 11.500 quilos
+Peso máximo de pouso: 11.250 quilos
+Motor: 2x motores turboélice Pratt & Whitney Canada PW118, 1.340 kW (1.800 HP) cada
+Hélices: Hamilton Standard 14RF19 de 4 pás, velocidade constante, totalmente embandeirado
+
+Referencia
+Embraer: EMB 120 Brasilia
+Icônico avião Embraer EMB-120 completa 40 anos de voos; seu nome original não era para ser Brasília
+[01/06, 09:38] Andre: A manutenção do sistema elétrico do Brasília é fundamental para garantir a segurança e
+eficiência da aeronave. Algumas das tarefas de manutenção incluem. Verificação dos
+geradores, manutenção das baterias, verificação dos transformadores, inspeção dos fios e
+conexões.
+O sistema elétrico da aeronave EMB-120 pode apresentar várias falhas, incluindo: Falha no
+gerador, sobrecarga do gerador, falha nos barramentos, falhas nos fios e conexões devido a
+problemas de isolamento, corrosão ou danos físicos. Os componentes elétricos, como relés,
+contatores e motores, também podem falhar. E por fim o sistema de controle do sistema
+elétrico pode falhar devido uma manutenção não minuciosa .
